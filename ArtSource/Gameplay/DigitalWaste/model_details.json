@@ -1,0 +1,16 @@
+{
+  "exports": {
+    "ReGenesis_DigitalWaste_A.fbx": {
+      "meshes": 10,
+      "triangles": 1240
+    },
+    "ReGenesis_DigitalWaste_B.fbx": {
+      "meshes": 10,
+      "triangles": 1272
+    },
+    "ReGenesis_DigitalWaste_C.fbx": {
+      "meshes": 10,
+      "triangles": 1208
+    }
+  }
+}

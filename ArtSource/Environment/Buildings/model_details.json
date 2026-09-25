@@ -1,0 +1,24 @@
+{
+  "exports": {
+    "ReGenesis_Building_Residential_Small.fbx": {
+      "meshes": 36,
+      "triangles": 3888
+    },
+    "ReGenesis_Building_Office_Medium.fbx": {
+      "meshes": 52,
+      "triangles": 5616
+    },
+    "ReGenesis_Building_Utility_Service.fbx": {
+      "meshes": 19,
+      "triangles": 2052
+    },
+    "ReGenesis_Building_Landmark_Tall.fbx": {
+      "meshes": 48,
+      "triangles": 5328
+    },
+    "ReGenesis_Building_RooftopModules.fbx": {
+      "meshes": 13,
+      "triangles": 1724
+    }
+  }
+}

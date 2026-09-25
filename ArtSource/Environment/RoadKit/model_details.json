@@ -1,0 +1,29 @@
+{
+  "grid_meters": 4,
+  "exports": {
+    "ReGenesis_Road_Straight_4m.fbx": {
+      "meshes": 13,
+      "triangles": 1404
+    },
+    "ReGenesis_Road_Corner_4m.fbx": {
+      "meshes": 15,
+      "triangles": 1620
+    },
+    "ReGenesis_Road_TJunction_4m.fbx": {
+      "meshes": 15,
+      "triangles": 1620
+    },
+    "ReGenesis_Road_Cross_4m.fbx": {
+      "meshes": 17,
+      "triangles": 1836
+    },
+    "ReGenesis_Road_SpawnGate_4m.fbx": {
+      "meshes": 12,
+      "triangles": 1296
+    },
+    "ReGenesis_Road_CoreConnector_4m.fbx": {
+      "meshes": 7,
+      "triangles": 1380
+    }
+  }
+}
